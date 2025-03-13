@@ -8,6 +8,8 @@ Cara Menggunakan
     Jalankan program dengan perintah: python analyze_email.py | sebelumnya kalian clone dlu alat ini seperti contoh di bawah:
     
     git clone https://github.com/SatrioUN/hacking-for-happy-tools.git
+    cd hacking-for-happy-tools
+    python analis.py
     
 
 
