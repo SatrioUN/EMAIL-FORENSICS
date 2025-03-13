@@ -5,6 +5,9 @@ Penjelasan Program
 Cara Menggunakan
     Simpan kode di atas ke dalam file Python, misalnya analyze_email.py.
     Buat file teks bernama email.txt (atau ganti nama sesuai dengan yang ada di kode) dan masukkan konten email yang ingin Anda analisis.
-    Jalankan program dengan perintah: python analyze_email.py
+    Jalankan program dengan perintah: python analyze_email.py | sebelumnya kalian clone dlu alat ini seperti contoh di bawah:
+    
+    git clone https://github.com/SatrioUN/hacking-for-happy-tools.git
+    
 
-    Sebelumnya kalian clone dlu repository ini dengan cara
+
